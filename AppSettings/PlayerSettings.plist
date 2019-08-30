@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>team</key>
+	<string>Cowboys</string>
+	<key>isMale</key>
+	<true/>
+	<key>gunType</key>
+	<integer>2</integer>
+	<key>powerLevels</key>
+	<array>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>4</integer>
+		<integer>0</integer>
+		<integer>1</integer>
+	</array>
+</dict>
+</plist>
